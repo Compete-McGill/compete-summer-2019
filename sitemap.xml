@@ -3,10 +3,10 @@
   <channel>
     <title>Compete McGill Summer Training 2019</title>
     <description>Site for Compete McGill Summer Training Material</description>
-    <link>https://idodin.github.io/</link>
-    <atom:link href="https://idodin.github.io/compete-summer-2019/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 May 2019 03:02:43 +0000</pubDate>
-    <lastBuildDate>Wed, 22 May 2019 03:02:43 +0000</lastBuildDate>
+    <link>https://summer.compete-mcgill.ca/</link>
+    <atom:link href="https://summer.compete-mcgill.ca/sitemap.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 22 May 2019 03:28:37 +0000</pubDate>
+    <lastBuildDate>Wed, 22 May 2019 03:28:37 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -17,8 +17,8 @@
 
 </description>
         <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
-        <link>https://idodin.github.io/solutions/linear%20data%20structures/non-linear%20data%20structures/2019/05/15/solutionset1.html</link>
-        <guid isPermaLink="true">https://idodin.github.io/solutions/linear%20data%20structures/non-linear%20data%20structures/2019/05/15/solutionset1.html</guid>
+        <link>https://summer.compete-mcgill.ca/solutions/linear%20data%20structures/non-linear%20data%20structures/2019/05/15/solutionset1.html</link>
+        <guid isPermaLink="true">https://summer.compete-mcgill.ca/solutions/linear%20data%20structures/non-linear%20data%20structures/2019/05/15/solutionset1.html</guid>
         
         
         <category>solutions</category>
@@ -62,8 +62,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
-        <link>https://idodin.github.io/problemsets/linear%20data%20structures/non-linear%20data%20structures/2019/05/15/problemset1.html</link>
-        <guid isPermaLink="true">https://idodin.github.io/problemsets/linear%20data%20structures/non-linear%20data%20structures/2019/05/15/problemset1.html</guid>
+        <link>https://summer.compete-mcgill.ca/problemsets/linear%20data%20structures/non-linear%20data%20structures/2019/05/15/problemset1.html</link>
+        <guid isPermaLink="true">https://summer.compete-mcgill.ca/problemsets/linear%20data%20structures/non-linear%20data%20structures/2019/05/15/problemset1.html</guid>
         
         
         <category>problemsets</category>
