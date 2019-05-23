@@ -46,7 +46,7 @@ There are some peculiarities in the way that we have implemented our site functi
 
 #### Schedule
 
-The Schedule data that is rendered in the Index page lives in `[`_data/schedule.json`](_data/schedule.json). The number field tells us which Problem Set and Solution number the generator should search for and link, if they exist. 
+The Schedule data that is rendered in the Index page lives in [`_data/schedule.json`](_data/schedule.json). The number field tells us which Problem Set and Solution number the generator should search for and link, if they exist. 
 
 #### Problem Sets and Solutions
 
