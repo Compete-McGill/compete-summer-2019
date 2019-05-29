@@ -5,9 +5,44 @@
     <description>Site for Compete McGill Summer Training Material</description>
     <link>https://summer.compete-mcgill.ca/</link>
     <atom:link href="https://summer.compete-mcgill.ca/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 May 2019 20:27:38 +0000</pubDate>
-    <lastBuildDate>Sat, 25 May 2019 20:27:38 +0000</lastBuildDate>
+    <pubDate>Wed, 29 May 2019 23:10:54 +0000</pubDate>
+    <lastBuildDate>Wed, 29 May 2019 23:10:54 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Problem Set 2</title>
+        <description>&lt;h1 id=&quot;week-1-solutions&quot;&gt;Week 1 Solutions&lt;/h1&gt;
+
+&lt;h2 id=&quot;codeforces&quot;&gt;CodeForces&lt;/h2&gt;
+
+&lt;h3 id=&quot;codeforces-961b-lecture-sleep&quot;&gt;&lt;a href=&quot;https://codeforces.com/contest/961/problem/B&quot;&gt;CodeForces 961B: Lecture Sleep&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;codeforces-698a-vacations&quot;&gt;&lt;a href=&quot;https://codeforces.com/contest/698/problem/A&quot;&gt;CodeForces 698A: Vacations&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;codeforces-855b-marvolo-gaunts-ring&quot;&gt;&lt;a href=&quot;https://codeforces.com/contest/855/problem/B&quot;&gt;CodeForces 855B: Marvolo Gaunt’s Ring&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;codeforces-573b-bear-and-blocks&quot;&gt;&lt;a href=&quot;https://codeforces.com/contest/573/problem/B&quot;&gt;CodeForces 573B: Bear and Blocks&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h2 id=&quot;kattis&quot;&gt;Kattis&lt;/h2&gt;
+
+&lt;h3 id=&quot;knapsack&quot;&gt;&lt;a href=&quot;https://open.kattis.com/problems/knapsack&quot;&gt;Knapsack&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;restaurant-orders&quot;&gt;&lt;a href=&quot;https://open.kattis.com/problems/orders&quot;&gt;Restaurant Orders&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;longest-increasing-subsequence&quot;&gt;&lt;a href=&quot;https://open.kattis.com/problems/longincsubseq&quot;&gt;Longest Increasing Subsequence&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;spidermans-workout&quot;&gt;&lt;a href=&quot;https://open.kattis.com/problems/spiderman&quot;&gt;Spiderman’s Workout&lt;/a&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+        <link>https://summer.compete-mcgill.ca/solutions/dynamic%20programming/2019/05/29/solutionset2.html</link>
+        <guid isPermaLink="true">https://summer.compete-mcgill.ca/solutions/dynamic%20programming/2019/05/29/solutionset2.html</guid>
+        
+        
+        <category>solutions</category>
+        
+        <category>dynamic programming</category>
+        
+      </item>
     
       <item>
         <title>Problem Set 2</title>
@@ -57,7 +92,7 @@ more of the same questions when we discuss. &lt;br /&gt; -Imad&lt;/p&gt;
       </item>
     
       <item>
-        <title>Problem Set 1</title>
+        <title>Problem Set 1 Solutions</title>
         <description>&lt;h1 id=&quot;week-1-solutions&quot;&gt;Week 1 Solutions&lt;/h1&gt;
 
 &lt;h2 id=&quot;codeforces&quot;&gt;CodeForces&lt;/h2&gt;
