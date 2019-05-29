@@ -23,6 +23,8 @@ bundle exec jekyll build
 cd _site
 git config user.email "development@compete-mcgill.ca"
 git config user.name "Compete Bot"
+touch CNAME
+echo "summer.compete-mcgill.ca" >> CNAME
 git add --all
 git tag "releases/1.$TRAVIS_BUILD_NUMBER" 
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
