@@ -21,15 +21,12 @@ bundle exec jekyll build
 
 # push
 cd _site
-ls
 git config user.email "development@compete-mcgill.ca"
 git config user.name "Compete Bot"
 touch CNAME
 echo "summer.compete-mcgill.ca" >> CNAME
-git status
 git add --all
-git status
-git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-git tag "releases/1.$TRAVIS_BUILD_NUMBER" 
+git commit -m "Travis #$TRAVIS_BUILD_NUMBER"
 git push -f  origin gh-pages
+git tag "releases/1.$TRAVIS_BUILD_NUMBER" 
 git push -f --tags origin gh-pages
