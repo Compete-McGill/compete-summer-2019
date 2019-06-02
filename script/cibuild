@@ -28,4 +28,4 @@ echo "summer.compete-mcgill.ca" >> CNAME
 git add --all
 git tag "releases/1.$TRAVIS_BUILD_NUMBER" 
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-git push --force --tags  origin gh-pages
+git push -f --tags  origin gh-pages
