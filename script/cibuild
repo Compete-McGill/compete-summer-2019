@@ -21,8 +21,8 @@ bundle exec jekyll build
 
 # push
 cd _site
-git config user.email "development@compete-mcgill.ca"
-git config user.name "Compete Bot"
+git config user.email "president@compete-mcgill.ca"
+git config user.name "Compete McGill Bot"
 touch CNAME
 echo "summer.compete-mcgill.ca" >> CNAME
 git add --all
