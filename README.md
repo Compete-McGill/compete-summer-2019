@@ -33,7 +33,7 @@ bundler install
 To install the required dependencies. You can then simply execute 
 
 ```
-bundler exec jekyll serve --baseurl ""
+bundler exec jekyll serve --baseurl=""
 ```
 
 to run a local version of the site for preview.
