@@ -26,5 +26,14 @@
       "4.2.2: Breadth-first search",
       "4.2.6: Bipartite graph check"
     ]
+  },
+  {
+    "number": 4,
+    "start": "19/06/2019",
+    "end": "26/06/2019",
+    "sections": [
+        "2.4.2: Union-Find Disjoint Sets",
+        "4.2.4: Coloring connected components"
+    ]
   }
 ]
