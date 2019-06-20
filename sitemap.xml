@@ -5,9 +5,51 @@
     <description>Site for Compete McGill Summer Training Material</description>
     <link>https://summer.compete-mcgill.ca/</link>
     <atom:link href="https://summer.compete-mcgill.ca/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Jun 2019 22:55:43 +0000</pubDate>
-    <lastBuildDate>Wed, 05 Jun 2019 22:55:43 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Jun 2019 01:40:12 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Jun 2019 01:40:12 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Problem Set 4</title>
+        <description>&lt;h1 id=&quot;week-4-problem-sets&quot;&gt;Week 4 Problem Sets&lt;/h1&gt;
+
+&lt;p&gt;If you want some basic exercises with Union-Find disjoint sets right after reading the chapters, go for the problems on Kattis!&lt;/p&gt;
+
+&lt;h2 id=&quot;codeforces&quot;&gt;CodeForces&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/843/A&quot;&gt;CodeForces 843A: Sorting by Subsequences&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/886/C&quot;&gt;CodeForces 886A: Petya and Catacombs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/875/B&quot;&gt;CodeForces 875B: Sorting the Coins&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1139/C&quot;&gt;CodeForces 1139C: Edgy Trees&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;harder-codeforces-problems-only-attempt-them-if-youre-up-for-more-challenges&quot;&gt;Harder CodeForces problems, only attempt them if you’re up for more challenges&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1131/F&quot;&gt;CodeForces 1131F: Asya and Kittens&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1012/B&quot;&gt;CodeForces 1012B: Chemical table&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kattis&quot;&gt;Kattis&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.kattis.com/problems/almostunionfind&quot;&gt;Almost Union-Find&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.kattis.com/problems/control&quot;&gt;Association for Control Over Minds&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.kattis.com/problems/coast&quot;&gt;Coast Length&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+        <link>https://summer.compete-mcgill.ca/problemsets/union-find%20disjoint%20sets/connected%20components/2019/06/19/problemset4.html</link>
+        <guid isPermaLink="true">https://summer.compete-mcgill.ca/problemsets/union-find%20disjoint%20sets/connected%20components/2019/06/19/problemset4.html</guid>
+        
+        
+        <category>problemsets</category>
+        
+        <category>union-find disjoint sets</category>
+        
+        <category>connected components</category>
+        
+      </item>
     
       <item>
         <title>Problem Set 3</title>
