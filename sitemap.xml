@@ -5,8 +5,8 @@
     <description>Site for Compete McGill Summer Training Material</description>
     <link>https://summer.compete-mcgill.ca/</link>
     <atom:link href="https://summer.compete-mcgill.ca/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Jun 2019 23:24:06 +0000</pubDate>
-    <lastBuildDate>Wed, 26 Jun 2019 23:24:06 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Jun 2019 07:21:15 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Jun 2019 07:21:15 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -824,6 +824,52 @@
         <category>union-find disjoint sets</category>
         
         <category>connected components</category>
+        
+      </item>
+    
+      <item>
+        <title>Problem Set 5</title>
+        <description>&lt;h1 id=&quot;week-5-problem-sets&quot;&gt;Week 5 Problem Sets&lt;/h1&gt;
+
+&lt;p&gt;Did you know that the popular 3x3x3 Rubik’s cube has 43,252,003,274,489,856,000 valid permutations? It means that it’s nearly impossible to predict the state of a scrambled cube. Yet people have managed to solve it in &lt;a href=&quot;https://www.youtube.com/watch?v=SB3ut65SFUU&quot;&gt;(way) less than 5 seconds&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Combinatorics problems in competitive programming is always fun to solve, albeit sometimes difficult. If you can find the correct formula/pattern, your solution can be very short. They could also be good practice for Math 240, too!&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Scrumbled_Rubik%27s_Cube.jpg#/media/File:Scrumbled_Rubik's_Cube.jpg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/b/b0/Scrumbled_Rubik%27s_Cube.jpg&quot; alt=&quot;Scrumbled Rubik's Cube.jpg&quot; height=&quot;400&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;&lt;br /&gt;By &lt;a href=&quot;//commons.wikimedia.org/w/index.php?title=User:Imk3nnyma&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new&quot; title=&quot;User:Imk3nnyma (page does not exist)&quot;&gt;Imk3nnyma&lt;/a&gt; - &lt;span class=&quot;int-own-work&quot; lang=&quot;en&quot;&gt;Own work&lt;/span&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0&quot; title=&quot;Creative Commons Attribution-Share Alike 4.0&quot;&gt;CC BY-SA 4.0&lt;/a&gt;, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=79057596&quot;&gt;Link&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;codeforces&quot;&gt;CodeForces&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/630/F&quot;&gt;CodeForces 630F: Selection of Personnel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/630/G&quot;&gt;CodeForces 630G: Challenge Pennants&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1161/C&quot;&gt;CodeForces 1161C: Thanos Nim&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1105/C&quot;&gt;CodeForces 1105C: Ayoub and Lost Array&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1172/B&quot;&gt;CodeForces 1172B: Nauuo and Circle&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1140/E&quot;&gt;CodeForces 1140E: Palindrome-less Arrays&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kattis&quot;&gt;Kattis&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.kattis.com/problems/rijeci&quot;&gt;Riječi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.kattis.com/problems/character&quot;&gt;Character Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.kattis.com/problems/catalan&quot;&gt;Catalan Numbers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.kattis.com/problems/oddbinom&quot;&gt;Odd Binomial Coefficients&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.kattis.com/problems/batmanacci&quot;&gt;Batmanacci&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.kattis.com/problems/election&quot;&gt;Election&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+        <link>https://summer.compete-mcgill.ca/problemsets/combinatorics/2019/06/26/problemset5.html</link>
+        <guid isPermaLink="true">https://summer.compete-mcgill.ca/problemsets/combinatorics/2019/06/26/problemset5.html</guid>
+        
+        
+        <category>problemsets</category>
+        
+        <category>combinatorics</category>
         
       </item>
     
