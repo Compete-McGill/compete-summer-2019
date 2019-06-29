@@ -5,8 +5,8 @@
     <description>Site for Compete McGill Summer Training Material</description>
     <link>https://summer.compete-mcgill.ca/</link>
     <atom:link href="https://summer.compete-mcgill.ca/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Jun 2019 07:21:15 +0000</pubDate>
-    <lastBuildDate>Sat, 29 Jun 2019 07:21:15 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Jun 2019 16:32:41 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Jun 2019 16:32:41 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -844,7 +844,9 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/630/F&quot;&gt;CodeForces 630F: Selection of Personnel&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/630/G&quot;&gt;CodeForces 630G: Challenge Pennants&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1161/C&quot;&gt;CodeForces 1161C: Thanos Nim&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1096/B&quot;&gt;CodeForces 1096B: Substring Removal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1061/C&quot;&gt;CodeForces 1061C: Multiplicity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1084/C&quot;&gt;CodeForces 1084C: The Fair Nut and String&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1105/C&quot;&gt;CodeForces 1105C: Ayoub and Lost Array&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1172/B&quot;&gt;CodeForces 1172B: Nauuo and Circle&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1140/E&quot;&gt;CodeForces 1140E: Palindrome-less Arrays&lt;/a&gt;&lt;/li&gt;
