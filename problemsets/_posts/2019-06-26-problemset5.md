@@ -20,7 +20,9 @@ Combinatorics problems in competitive programming is always fun to solve, albeit
 
 - [CodeForces 630F: Selection of Personnel](https://codeforces.com/problemset/problem/630/F)
 - [CodeForces 630G: Challenge Pennants](https://codeforces.com/problemset/problem/630/G)
-- [CodeForces 1161C: Thanos Nim](https://codeforces.com/problemset/problem/1161/C)
+- [CodeForces 1096B: Substring Removal](https://codeforces.com/problemset/problem/1096/B)
+- [CodeForces 1061C: Multiplicity](https://codeforces.com/problemset/problem/1061/C)
+- [CodeForces 1084C: The Fair Nut and String](https://codeforces.com/problemset/problem/1084/C)
 - [CodeForces 1105C: Ayoub and Lost Array](https://codeforces.com/problemset/problem/1105/C)
 - [CodeForces 1172B: Nauuo and Circle](https://codeforces.com/problemset/problem/1172/B)
 - [CodeForces 1140E: Palindrome-less Arrays](https://codeforces.com/problemset/problem/1140/E)
