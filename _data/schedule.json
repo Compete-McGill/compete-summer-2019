@@ -35,5 +35,13 @@
         "2.4.2: Union-Find Disjoint Sets",
         "4.2.4: Coloring connected components"
     ]
+  },
+  {
+    "number": 5,
+    "start": "26/06/2019",
+    "end": "03/07/2019",
+    "sections": [
+        "5.4: Combinatorics"
+    ]
   }
 ]
