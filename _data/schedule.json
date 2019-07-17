@@ -43,5 +43,13 @@
     "sections": [
         "5.4: Combinatorics"
     ]
+  },
+  {
+    "number": 6,
+    "start": "17/07/2019",
+    "end": "24/07/2019",
+    "sections": [
+        "6: Strings"
+    ]
   }
 ]
