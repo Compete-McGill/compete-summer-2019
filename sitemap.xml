@@ -5,9 +5,43 @@
     <description>Site for Compete McGill Summer Training Material</description>
     <link>https://summer.compete-mcgill.ca/</link>
     <atom:link href="https://summer.compete-mcgill.ca/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jul 2019 20:02:58 +0000</pubDate>
-    <lastBuildDate>Wed, 17 Jul 2019 20:02:58 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Aug 2019 02:51:18 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Aug 2019 02:51:18 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Problem Set 7</title>
+        <description>&lt;h1 id=&quot;week-7-problem-sets&quot;&gt;Week 7 Problem Sets&lt;/h1&gt;
+
+&lt;h2 id=&quot;codeforces&quot;&gt;CodeForces&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1149/A&quot;&gt;CodeForces 1149A: Prefix Sum Primes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1107/B&quot;&gt;CodeForces 1107B: Digital Root&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1110/C&quot;&gt;CodeForces 1110C: Meaningless Operations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1114/C&quot;&gt;CodeForces 1114C: Trailing Loves (or L’oeufs?)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1107/D&quot;&gt;CodeForces 1107D: Compression&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1114/E&quot;&gt;CodeForces 1114E: Arithmetic Progression&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kattis&quot;&gt;Kattis&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.kattis.com/problems/enlarginghashtables&quot;&gt;Enlarging Hash Tables&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.kattis.com/problems/inversefactorial&quot;&gt;Inverse Factorial&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
+        <link>https://summer.compete-mcgill.ca/problemsets/number%20theory/2019/08/04/problemset7.html</link>
+        <guid isPermaLink="true">https://summer.compete-mcgill.ca/problemsets/number%20theory/2019/08/04/problemset7.html</guid>
+        
+        
+        <category>problemsets</category>
+        
+        <category>number theory</category>
+        
+      </item>
     
       <item>
         <title>Problem Set 6</title>
