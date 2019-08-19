@@ -5,9 +5,42 @@
     <description>Site for Compete McGill Summer Training Material</description>
     <link>https://summer.compete-mcgill.ca/</link>
     <atom:link href="https://summer.compete-mcgill.ca/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Aug 2019 02:51:18 +0000</pubDate>
-    <lastBuildDate>Mon, 05 Aug 2019 02:51:18 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Aug 2019 17:20:29 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Aug 2019 17:20:29 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Problem Set 8</title>
+        <description>&lt;h1 id=&quot;week-8-problem-sets&quot;&gt;Week 8 Problem Sets&lt;/h1&gt;
+
+&lt;h2 id=&quot;codeforces&quot;&gt;CodeForces&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1081/D&quot;&gt;CodeForces 1081D: Maximum Distance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1095/F&quot;&gt;CodeForces 1095F: Make It Connected&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1108/F&quot;&gt;CodeForces 1108F: MST Unification&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1076/D&quot;&gt;CodeForces 1076D: Edge Deletion&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1065/D&quot;&gt;CodeForces 1065D: Three Pieces&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/653/D&quot;&gt;CodeForces 653D: Delivery Bears&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+        <link>https://summer.compete-mcgill.ca/problemsets/graph/shortest%20path/minimum%20spanning%20tree/network%20flow/2019/08/19/problemset8.html</link>
+        <guid isPermaLink="true">https://summer.compete-mcgill.ca/problemsets/graph/shortest%20path/minimum%20spanning%20tree/network%20flow/2019/08/19/problemset8.html</guid>
+        
+        
+        <category>problemsets</category>
+        
+        <category>graph</category>
+        
+        <category>shortest path</category>
+        
+        <category>minimum spanning tree</category>
+        
+        <category>network flow</category>
+        
+      </item>
     
       <item>
         <title>Problem Set 7</title>
