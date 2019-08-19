@@ -59,5 +59,16 @@
     "sections": [
         "5.5: Number theory"
     ]
+  },
+  {
+    "number": 8,
+    "start": "18/08/2019",
+    "end": "01/09/2019",
+    "sections": [
+        "4.3: Minimum spanning tree",
+        "4.4: Single-source shortest paths",
+        "4.5: All-pairs shortest paths",
+        "4.6 Network Flow"
+    ]
   }
 ]
